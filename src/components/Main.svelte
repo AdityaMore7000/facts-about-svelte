@@ -1,4 +1,4 @@
-<div class="text-white h-[80vh]">
+<div class="text-white md:h-[80vh] lg:h-[80vh]">
     <ul class=" pl-7 py-4 list-disc">
         <li>No Virtual DOM; DOM updates at build time for efficient rendering.</li>
         <li>Compiles to highly optimized Vanilla JS for runtime efficiency.</li>
